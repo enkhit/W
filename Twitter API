@@ -1,0 +1,5 @@
+api_key = "3BOzgNzNggkb47FYXsmxwUWxv"
+api_secret = "MeuPY69HkurXZrsM7jsFUGQMX0fsddkOB1HwLyq6dHVDI8fzUt"
+access_token = "1475232163855749120-V8sz0XOsFNwCSyu7SeWg60WWfsTj5u"
+access_secret = "b2EMTfkPBGVDeck2DF4sTYylXrRjYrJQRmDCCwoJd6dHb"
+client = tweepy.Client(bearer_token="AAAAAAAAAAAAAAAAAAAAALBg4QEAAAAAfa3tsPG%2BzAVBJ2w2XpfMjOQ6Sfo%3Df6Yv7WOzJiKq01MsmDxwUmeMngiF1iDi15yi4pNmbuIfnFCu0V")
